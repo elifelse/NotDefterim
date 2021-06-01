@@ -1,6 +1,27 @@
 #Uygulamanın Amacı
 Yaptıklarını dönüp hatırlaması gerektiğinde bunu notlarına bakarak yapan birisi için bir uygulamadır.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Mesajların Eklenmesi
 Uygulama basitçe bir metin kutusu ile kişinin mesajını alacaktır. 
 Enter tuşuna basınca ya da ekle butonuna tıklandığında mesaj o anki zaman bilgisiyle listeye eklenerek kullanıcıya gösterilecektir.
